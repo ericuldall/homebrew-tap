@@ -1,6 +1,6 @@
 cask "weker" do
-  version "0.1.0"
-  sha256 "bab30b4e7c9dc188afde7111daa8e8fe7a596ae3e862e26269b77a0a3228941d"
+  version "0.1.1"
+  sha256 "c96b2647be816cd5b511c8d6101563b8cf1a05c40e18eb3cb30480d3cf060321"
 
   url "https://github.com/ericuldall/homebrew-tap/releases/download/weker-v#{version}/Weker-#{version}.zip"
   name "Weker"
